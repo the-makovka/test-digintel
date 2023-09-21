@@ -1,3 +1,7 @@
+dependencies {
+    implementation("com.justai.jaicf:jaicf-core:1.1.7")
+}
+
 import com.justai.jaicf.activator.catchall.CatchAllActivator
 import com.justai.jaicf.api.BotApi
 import com.justai.jaicf.api.BotRequest
